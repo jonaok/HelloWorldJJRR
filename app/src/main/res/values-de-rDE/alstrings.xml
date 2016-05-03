@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aufgabe Hallo Welt JJRR</string>
+    <string name="titulo_app">Meine Aufgabe der dritten Woche</string>
+    <string name="texto">Eingeben</string>
+    <string name="texto2">Willkommen</string>
+</resources>

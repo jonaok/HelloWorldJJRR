@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Homework Hello World JJRR</string>
+    <string name="titulo_app">My homework of the third week</string>
+    <string name="texto">Enter</string>
+    <string name="texto2">Welcome</string>
+</resources>

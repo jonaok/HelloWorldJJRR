@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Tarea Hola Mundo JJRR</string>
+    <string name="titulo_app">Mi tarea de la tercera semana</string>
+    <string name="texto">Entrar</string>
+    <string name="texto2">Bienvenido</string>
+</resources>
